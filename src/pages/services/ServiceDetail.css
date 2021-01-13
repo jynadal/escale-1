@@ -1,0 +1,56 @@
+* {
+    color: black;
+}
+.container {
+    width: 100vw;
+    margin: 50px auto;
+}
+.container h1 {
+color: #1c2237;
+font-family: 'Qardoos-Personal-Use','Qardoos','Qardoos Personal Use Regular', Georgia, 'Times New Roman', Times, serif;
+}
+.prestations__list {
+    color: #1c2237;
+    /*font-family: 'Qardoos-Personal-Use','Qardoos','Qardoos Personal Use Regular', Georgia, 'Times New Roman', Times, serif;*/
+    font-size: 25px;
+    margin: 50px auto 25px ;
+    text-align: center;
+}
+.prestations li {
+    font-size: 20px;
+    list-style-type: none;
+    line-height: 1.5;
+    margin-bottom: 10px;
+    
+}
+.row {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+.col .img {
+    background: url(../../Images/common/pricing-2.png);
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.prestation__prestaSlug {
+    background: url(../../Images/common/test-bg-2.png) cover no-repeat;
+}
+.prestation__prestaSlug h5 {
+    margin: 20px auto 15px;
+    text-align: center;
+    font-size: 19px;
+}
+.prestation__description {
+    margin: 20px 50px;
+}
+.prestation__description h6 {
+    margin: 20px auto 10px;
+    font-size: 16px;
+}
+.prestation__description p {
+    font-size: 15px;
+}
+
+
