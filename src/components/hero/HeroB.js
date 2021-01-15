@@ -7,7 +7,7 @@ function HeroB() {
     return (
         <div className='hero-container'>
             <video src='/Videos/Clouds-2.mp4' autoPlay loop muted />
-            <h1>La beauté vient à vous</h1>
+            <h1>La beauté vient à ESCALE 1</h1>
             <p>A vous d'en profitez!</p>
             <div className="hero-btns">
                 <Button className='btn' buttonStyle='btn--outline'

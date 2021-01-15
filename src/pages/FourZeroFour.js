@@ -9,7 +9,7 @@ function FourZeroFour() {
         <>
              <Hero>
                 <Banner title="404"
-                    subtitle="Oops, la page que vous recherchez n'est pas ici. Essayez à l'accueil ...">
+                    subtitle="Oops ESCALE 1, la page que vous recherchez n'est pas ici. Essayez à l'accueil ...">
                     <Link to="/" className="btn-primary" >
                         Accueil
                     </Link>

@@ -19,7 +19,6 @@ function App() {
         <Route path='/services/:slug'  component={ServiceDetail}/>
         <Route path='/blog'  component={Blog}/>
         <Route path='*'  component={FourZeroFour}/>
-         {/* "homepage": "http://jynadal/github.io/escale-1", */}
       </Switch>
 
     </Router>
