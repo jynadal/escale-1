@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/escale-1/static/css/main.459ddd7f.chunk.css",
+    "main.js": "/escale-1/static/js/main.a9a1cd84.chunk.js",
+    "main.js.map": "/escale-1/static/js/main.a9a1cd84.chunk.js.map",
+    "runtime-main.js": "/escale-1/static/js/runtime-main.12a95b1e.js",
+    "runtime-main.js.map": "/escale-1/static/js/runtime-main.12a95b1e.js.map",
+    "static/css/2.e11c7a84.chunk.css": "/escale-1/static/css/2.e11c7a84.chunk.css",
+    "static/js/2.6f2d6246.chunk.js": "/escale-1/static/js/2.6f2d6246.chunk.js",
+    "static/js/2.6f2d6246.chunk.js.map": "/escale-1/static/js/2.6f2d6246.chunk.js.map",
+    "index.html": "/escale-1/index.html",
+    "static/css/2.e11c7a84.chunk.css.map": "/escale-1/static/css/2.e11c7a84.chunk.css.map",
+    "static/css/main.459ddd7f.chunk.css.map": "/escale-1/static/css/main.459ddd7f.chunk.css.map",
+    "static/js/2.6f2d6246.chunk.js.LICENSE.txt": "/escale-1/static/js/2.6f2d6246.chunk.js.LICENSE.txt",
+    "static/media/JustLogo.4ec3136a.svg": "/escale-1/static/media/JustLogo.4ec3136a.svg",
+    "static/media/Logo.bccf9bde.svg": "/escale-1/static/media/Logo.bccf9bde.svg",
+    "static/media/App.css": "/escale-1/static/media/woman-3416250_1920.148b7229.jpg",
+    "static/media/Footer.css": "/escale-1/static/media/footer-bg1.8fcf0be3.png",
+    "static/media/ServiceDetail.css": "/escale-1/static/media/test-bg-2.dcc64197.png",
+    "static/media/Testimonial2.css": "/escale-1/static/media/test-bg2.2f296578.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.12a95b1e.js",
+    "static/css/2.e11c7a84.chunk.css",
+    "static/js/2.6f2d6246.chunk.js",
+    "static/css/main.459ddd7f.chunk.css",
+    "static/js/main.a9a1cd84.chunk.js"
+  ]
+}
